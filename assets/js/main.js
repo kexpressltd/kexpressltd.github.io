@@ -1,3 +1,11 @@
+/**
+* Template Name: Nova
+* Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
+* Updated: Mar 17 2024 with Bootstrap v5.3.3
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
+
 document.addEventListener('DOMContentLoaded', () => {
   "use strict";
 
@@ -188,4 +196,4 @@ document.addEventListener('DOMContentLoaded', () => {
     aos_init();
   });
 
-})
+});
